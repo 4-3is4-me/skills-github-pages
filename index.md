@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: This is the index.md page
 ---
 
+### Hashes are for headings!
